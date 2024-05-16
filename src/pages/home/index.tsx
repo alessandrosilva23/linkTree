@@ -74,8 +74,7 @@ export function Home(){
 
     return(
         <div className="flex flex-col w-full py-4 items-center justify-center">
-            <h1 className="md:text-4xl text-3xl font-bold text-white mt-3">Sujeito Dev
-            </h1>
+            <h1 className="md:text-4xl text-3xl font-bold text-white mt-3">Seu nome Aqui...</h1>
             <span className="text-white mb-5 mt-20">Veja meus Links 👇</span>
 
             <main className="flex flex-col w-11/12 max-w-xl text-center">
